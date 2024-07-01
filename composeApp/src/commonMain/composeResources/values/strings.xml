@@ -1,0 +1,10 @@
+<resources>
+    <string name="action_go">Go</string>
+    <string name="baking_title">KMP Demo with Vertex AI</string>
+    <string name="label_prompt">Prompt</string>
+    <string name="prompt_placeholder">Describe game in the image concisely. List down rules for newbie?</string>
+    <string name="image1_description">Cricket</string>
+    <string name="image2_description">Football</string>
+    <string name="image3_description">Tennis</string>
+    <string name="results_placeholder">Results will appear here</string>
+</resources>
